@@ -30,7 +30,7 @@ else:
 		time.sleep(5)
 		gui.typewrite("daryl.c.m.cabacungan")
 		gui.press('tab')
-		gui.typewrite("Dacamon03")
+		gui.typewrite("")
 		gui.press('tab')
 		gui.press('enter')
 		time.sleep(2)
